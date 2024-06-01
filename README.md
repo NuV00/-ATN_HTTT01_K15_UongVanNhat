@@ -1,4 +1,10 @@
 #ĐỒ ÁN TỐT NGHIỆP_UÔNG VĂN NHẬT_ĐHCNHN_K15
+#Cách sử dụng mã nguồn:
++ Run Xampp
++ Folder APIBackend: Chạy lệnh php artisan serve
++ Folder Frontend: Chạy lệnh npm run dev
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
