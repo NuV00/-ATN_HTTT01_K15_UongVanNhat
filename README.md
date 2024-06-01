@@ -1,8 +1,8 @@
 # ĐỒ ÁN TỐT NGHIỆP_UÔNG VĂN NHẬT_ĐHCNHN_K15
-# Cách sử dụng mã nguồn:
+# Chuyển giao mã nguồn:
 + Run Xampp
-+ Folder APIBackend: Chạy lệnh php artisan serve
-+ Folder Frontend: Chạy lệnh npm run dev
++ Folder APIBackend: Chạy lệnh php artisan serve trong terminal
++ Folder Frontend: Chạy lệnh npm run dev trong terminal
 
 
 # Nuxt 3 Minimal Starter
